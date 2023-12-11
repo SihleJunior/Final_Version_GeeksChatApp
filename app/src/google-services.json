@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "505751257047",
+    "firebase_url": "https://chatapp-d5dff-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-d5dff",
+    "storage_bucket": "chatapp-d5dff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505751257047:android:8bcce13ffbcdb9fa65d592",
+        "android_client_info": {
+          "package_name": "com.example.easychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo0tJ1R4ttNIrRSNuEhQEY_YlLZGcRYA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
